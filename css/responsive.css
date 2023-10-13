@@ -1,0 +1,41 @@
+@media screen and (max-width: 992px){
+}
+@media screen and (max-width: 768px){
+	.banner-content{
+		margin-top: 180px;
+	}
+	.banner-content h1{
+		font-size: 50px;
+	}
+	.highlight{
+		text-align: center;
+		padding-top: 30%;
+	}
+	.highlight .highlight-text{
+		padding-bottom: 20px;
+	}
+	.banner-highlight{
+		padding: 50px 0;
+	}
+}
+@media screen and (max-width: 576px){
+	.banner-content{
+		margin-top: 150px;
+	}
+}
+@media screen and (max-width: 420px){
+	.highlight{
+		padding-top: 60%;
+	}
+}
+@media screen and (max-width: 320px){
+	.banner-content{
+		margin-top: 180px;
+	}
+	.banner-content h1{
+		font-size: 30px;
+	}
+	.highlight{
+		padding-top: 70%;
+	}
+}
